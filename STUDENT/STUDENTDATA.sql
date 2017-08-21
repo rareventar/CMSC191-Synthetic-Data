@@ -1,0 +1,15 @@
+source STUDENT.sql;
+source STUDENT (1).sql;
+source STUDENT (2).sql;
+source STUDENT (3).sql;
+source STUDENT (4).sql;
+source STUDENT (4).sql;
+source STUDENT (5).sql;
+source STUDENT (6).sql;
+source STUDENT (7).sql;
+source STUDENT (8).sql;
+source STUDENT (9).sql;
+source STUDENT (10).sql;
+source STUDENT (11).sql;
+source STUDENT (12).sql;
+source STUDENT (13).sql;

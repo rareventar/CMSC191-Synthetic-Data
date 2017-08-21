@@ -1,0 +1,15 @@
+source SUBJECTS.sql;
+source SUBJECTS (1).sql;
+source SUBJECTS (2).sql;
+source SUBJECTS (3).sql;
+source SUBJECTS (4).sql;
+source SUBJECTS (4).sql;
+source SUBJECTS (5).sql;
+source SUBJECTS (6).sql;
+source SUBJECTS (7).sql;
+source SUBJECTS (8).sql;
+source SUBJECTS (9).sql;
+source SUBJECTS (10).sql;
+source SUBJECTS (11).sql;
+source SUBJECTS (12).sql;
+source SUBJECTS (13).sql;

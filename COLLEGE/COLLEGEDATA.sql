@@ -1,0 +1,17 @@
+source COLLEGE.sql;
+source COLLEGE (1).sql;
+source COLLEGE (2).sql;
+source COLLEGE (3).sql;
+source COLLEGE (4).sql;
+source COLLEGE (4).sql;
+source COLLEGE (5).sql;
+source COLLEGE (6).sql;
+source COLLEGE (7).sql;
+source COLLEGE (8).sql;
+source COLLEGE (9).sql;
+source COLLEGE (10).sql;
+source COLLEGE (11).sql;
+source COLLEGE (12).sql;
+source COLLEGE (13).sql;
+source COLLEGE (14).sql;
+source COLLEGE (15).sql;
